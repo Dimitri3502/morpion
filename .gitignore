@@ -1,0 +1,10 @@
+*dist*
+*node_modules*
+
+/.idea
+aws-exports.js
+awsconfiguration.json
+.env
+/yarn-error.log
+
+/workspaces/client/node_modules/
